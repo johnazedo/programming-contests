@@ -4,8 +4,8 @@ A place to store code from programming contests.
 
 Contests sites:
 
-- [AtCoder contests](https://github.com/johnazedo/programming-contests/tree/main/atcoder);
-- [VJudge contests](https://github.com/johnazedo/programming-contests/tree/main/vjudge).
+- [AtCoder contests;](https://github.com/johnazedo/programming-contests/tree/main/atcoder)
+- [VJudge contests.](https://github.com/johnazedo/programming-contests/tree/main/vjudge)
 
 Problems status:
 

@@ -8,6 +8,7 @@ Difficult: B
 Score: 200
 Link: https://atcoder.jp/contests/abc291/tasks/abc291_b
 Contest: abc291
+Status: Solved
 */
 
 int main() {

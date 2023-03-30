@@ -14,19 +14,19 @@ A repository to store AtCoder contests solutions.
 
 | Grade | Score | Name         | Status             | Link                                                                                                |
 |-------|-------|--------------|--------------------|-----------------------------------------------------------------------------------------------------|
-| A     | 100   | 1, 2, 4 Test | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc270/a_1_2_4_test_q.go) | 
+| A     | 100   | 1, 2, 4 Test | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc270/a_1_2_4_test.cpp) | 
 
 ### ABC291
 
 | Grade | Score | Name         | Status             | Link                                                                                                 |
 |-------|-------|--------------|--------------------|------------------------------------------------------------------------------------------------------|
-| A     | 100   | Camel Case   | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc291/a_camel_case.go)    | 
+| A     | 100   | Camel Case   | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc291/a_camel_case.cpp)    | 
 | B     | 200   | Trimmed Mean | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc291/b_trimmed_mean.cpp) |
 ### ABC293
 
 | Grade | Score | Name              | Status             | Link                                                                                                     |
 |-------|-------|-------------------|--------------------|----------------------------------------------------------------------------------------------------------|
-| A     | 100   | Swap Odd and Even | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc293/a_swap_odd_and_even.go) | 
+| A     | 100   | Swap Odd and Even | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc293/a_swap_odd_and_even.cpp) | 
 
 ### ABC294
 
