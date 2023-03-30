@@ -32,9 +32,9 @@ A repository to store AtCoder contests solutions.
 
 | Grade | Score | Name           | Status             | Link                                                                                                   |
 |-------|-------|----------------|--------------------|--------------------------------------------------------------------------------------------------------|
-| A     | 100   | Filter         | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc294/a_filter.go)          | 
-| B     | 200   | Ascii Art      | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc294/b_ascii_art.go)       |
-| C     | 300   | Merge Sequence | :x:                | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc294/c_merge_sequences.go) |
+| A     | 100   | Filter         | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc294/a_filter.cpp)          | 
+| B     | 200   | Ascii Art      | :white_check_mark: | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc294/b_ascii_art.cpp)       |
+| C     | 300   | Merge Sequence | :x:                | [File](https://github.com/johnazedo/programming-contests/blob/main/atcoder/abc294/c_merge_sequences.cpp) |
 
 ### ABC295
 
