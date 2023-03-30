@@ -9,6 +9,7 @@ Difficult: B
 Score: 200
 Link: https://atcoder.jp/contests/abc295/tasks/abc295_b
 Contest: abc295
+Status: Can improve
 */
 
 class Bomb {

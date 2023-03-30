@@ -40,5 +40,5 @@ A repository to store AtCoder contests solutions.
 
 | Grade | Score | Name             | Status         | Link                                                                                                    |
 |-------|-------|------------------|----------------|---------------------------------------------------------------------------------------------------------|
-| A     | 100   | Probably English | :construction: | [File](https://github.com/johnazedo/programming-contests/tree/main/atcoder/abc295/a_probably_english.go) | 
+| A     | 100   | Probably English | :construction: | [File](https://github.com/johnazedo/programming-contests/tree/main/atcoder/abc295/a_probably_english.cpp) | 
 | B     | 200   | Bombs            | :construction: | [File](https://github.com/johnazedo/programming-contests/tree/main/atcoder/abc295/b_bombs.cpp)           |
