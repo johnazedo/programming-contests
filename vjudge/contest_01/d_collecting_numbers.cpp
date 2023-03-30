@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+#include <map>
 using namespace std;
 
 /*
@@ -7,38 +7,26 @@ Difficult: -
 Score: -
 Link: https://cses.fi/problemset/task/2216/
 Contest: DIM0410 - Contest #1 
-Status: Unsolved
+Status: Solved
 */
 
 int main() {
     int m, temp;
     cin >> m;
 
-    vector<int> v;
+    map<int, int> v;
+    int count = 1;
 
     for(int i=0; i<m; i++) {
         cin >> temp;
-        v.push_back(temp);
+        v[temp] = i;
     }
 
-    int count = 0;
-    int next = 1;
-
-
-    for(int j=0; j<m; j++) {
-        count++;
-
-        for(int i=0; i<m; i++) {
-            if(v[i] == next) {
-                next++;
-            }
-        }
-
-        if((next-1) == v.size()) {
-            break;
+    for(int i=0; i<m; i++) {
+        if(v[i] > v[i+1]) {
+            count++;
         }
     }
 
     cout << count << endl;
-
 }
