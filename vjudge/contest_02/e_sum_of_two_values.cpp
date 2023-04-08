@@ -2,7 +2,6 @@
 #include <map>
 using namespace std;
 
-
 /*
 Difficult: C
 Score: 3 pts
